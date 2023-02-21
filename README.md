@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/shufo/find-config)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/shufo/find-config)](https://github.com/shufo/find-config/releases)
 [![codecov](https://codecov.io/gh/shufo/find-config/branch/main/graph/badge.svg?token=PeApmbPdsM)](https://codecov.io/gh/shufo/find-config)
 
 # find-config

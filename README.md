@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/shufo/find-config/branch/main/graph/badge.svg?token=PeApmbPdsM)](https://codecov.io/gh/shufo/find-config)
+
 # find-config
 
 Recursive Directory Search for Config File
@@ -15,7 +17,7 @@ $ go get github.com/shufo/find-config
 
 ## Usage
 
-To start the search, use `config.Find(filename, startDir)`. 
+To start the search, use `config.Find(filename, startDir)`.
 The program will return the absolute path of the config file if it is found, or an error message if the file is not found.
 
 ```golang
